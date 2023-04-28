@@ -1,7 +1,7 @@
 # 🚴‍♂️ Analyzing Bike Sale Data
 This repository contains the code and data files for a project that analyzes bike sales data. The project aims to uncover insights and trends from the data using various analytical and visualization techniques.
 
-##About the Data Set
+## About the Data Set
 The data set used in this project is sourced from Alex The Analyst's GitHub repository. It contains information about customers who have purchased or not purchased bikes, including their demographic information, commute distance, and income.
 
 ## Data Cleaning
